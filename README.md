@@ -1,8 +1,7 @@
-# Rolling - gonum/plot data windows
+# Rolling - data windows for gonum/plot
 
-> Rolling data for plots implemented as array backed ring buffers.
-
-* This package provides types that implement: `gonum.org/v1/plot/plotter.{Valuer,XYer,XYZr}`
+* Rolling data for plots implemented as array backed ring buffers.
+* Provides types that implement: `gonum.org/v1/plot/plotter.{Valuer,XYer,XYZr}`
 
 ### Example:
 
